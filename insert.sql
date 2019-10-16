@@ -6,3 +6,6 @@ VALUES(2, "Administración de sistemas informáticos en red");
 
 INSERT INTO aula (nombre_aula, capacidad)
 VALUES("ASIR", 20);
+
+insert into estadio (codigo, nombre)
+values (4455, "Bernabeu");
